@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>topnav</title>
+    <desc>Created with Sketch.</desc>
+    <g id="组件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="topnav" transform="translate(-1560.000000, -20.000000)">
+            <g id="search-icon">
+                <g transform="translate(1560.000000, 20.000000)">
+                    <rect id="矩形" x="0" y="0" width="40" height="40"></rect>
+                    <g id="icon" transform="translate(8.000000, 8.000000)">
+                        <path d="M18.503,18.503 L24,24" id="Stroke-1" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M11.01,1 C16.529,1 21.019,5.49 21.019,11.01 C21.019,16.529 16.529,21.02 11.01,21.02 C5.49,21.02 1,16.529 1,11.01 C1,5.49 5.49,1 11.01,1 M11.01,-8.8817842e-15 C4.929,-8.8817842e-15 -8.8817842e-15,4.929 -8.8817842e-15,11.01 C-8.8817842e-15,17.09 4.929,22.02 11.01,22.02 C17.09,22.02 22.02,17.09 22.02,11.01 C22.02,4.929 17.09,-8.8817842e-15 11.01,-8.8817842e-15" id="Fill-2" fill="#FFFFFF"></path>
+                        <path d="M18.038,11.275 C18.038,15.03 15,18.069 11.244,18.069" id="Stroke-3" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
